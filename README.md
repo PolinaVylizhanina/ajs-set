@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yi71puh8rbm6vcl5/branch/main?svg=true)](https://ci.appveyor.com/project/PolinaVylizhanina/ajs-set/branch/main)
